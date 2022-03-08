@@ -1,23 +1,32 @@
 import React from 'react'
-import './css/SectionFour.css'
+import './css/SectionSix.css'
 
 export default function SectionFour() {
   return (
-<div id="section-four-block">
+<div id="section-six-block">
 
-  <div id="section-four-content">
+  <div id="section-six-content">
 
-    <div id='top-title'>
-      Frequently Asked Questions
+    <div id='left'>
+      <span class='left-icon'>2021 Turners</span>
     </div>
 
-    <div id='search-bar'>
-      <span class="title-heading">Search function here</span><br/>
-      <input type="text" id="search" />
-    </div>
-
-    <div class="title-heading">
-      Results section here
+    <div id='right'>
+    <div class='icon'>
+        icon - Search Details
+      </div>
+      <div class='icon'>
+        icon - Facebook
+      </div>
+      <div class='icon'>
+        icon - Newsletter
+      </div>
+      <div class='icon'>
+        icon - Email Alerts
+      </div>
+      <div class='icon'>
+        icon - Instagram
+      </div>
     </div>
 
   </div>
