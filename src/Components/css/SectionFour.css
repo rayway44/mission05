@@ -1,0 +1,11 @@
+#section-four-block{
+    border: 2px solid black;
+
+}
+
+#section-four-content{
+    border: 2px solid yellow;
+    width: 1000px;
+    height: 100px;
+    margin: 0 auto;
+}
