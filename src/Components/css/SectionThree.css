@@ -17,13 +17,14 @@
 #section-three-left{
     width: 60%;
     height:100px;
-    border: 2px solid yellow;
+    /* border: 2px solid yellow; */
     color: white;
+    margin:0px 0px 0px 0px;
 }
 #section-three-right{
     width: 30%;
     height:100px;
-    border: 2px solid yellow;
+    /* border: 2px solid yellow; */
     color: white;
     display: flex;
     flex-direction: column;
@@ -39,4 +40,13 @@
     border-radius:10px;
     font-size: 20px;
     width: 150px;
+}
+
+.LargeText{
+    font-size: 30px;
+    /* font-weight: bold; */
+}
+
+.SmallText{
+    font-size: 20px;
 }

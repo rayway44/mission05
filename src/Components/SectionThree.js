@@ -7,12 +7,12 @@ export default function SectionThree() {
 
     <div id="section-three-content">
       <div id="section-three-left">
-        <span>Ready to get started</span><br/><br/>
-        <span>Let Turners Cars protect it with the right coverage at the right price</span>
+        <span class='LargeText'>Ready to get started ?</span><br/><br/>
+        <span class='SmallText'>Let Turners Cars protect it with the right coverage at the right price</span>
       </div>
       <div id="section-three-right">
       <button class='buy-now-button'>BUY NOW</button><br/>
-      <span>Contact us</span>
+      <span class='SmallText'>Contact us</span>
       </div>
     </div>
 
