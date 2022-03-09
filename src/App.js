@@ -22,9 +22,6 @@ function App() {
       <SectionFour />
       <SectionFive />
       <SectionSix />
-      Mission 05 - Jennifer Ariza
-      
-      <Body />
 
       </div>
 

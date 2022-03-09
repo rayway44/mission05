@@ -1,9 +1,9 @@
 #section-one-block{
-    border: 2px solid black;
+    /* border: 2px solid black; */
 }
 
 #section-one-content{
-    border: 2px solid yellow;
+    /* border: 2px solid yellow; */
     width: 1000px;
     height: 400px;
     margin: 0 auto;
@@ -86,7 +86,7 @@
 
 #bottom-white{
     text-align:center;
-    padding:20px 0px 0px 0px;
+    padding:40px 0px 20px 0px;
 }
 
 

@@ -1,9 +1,9 @@
 #section-two-block{
-    border: 2px solid black;
+    /* border: 2px solid black; */
 }
 
 #section-two-content{
-    border: 2px solid yellow;
+    /* border: 2px solid yellow; */
     width: 1000px;
     /* height: 400px; */
     margin: 0 auto;
