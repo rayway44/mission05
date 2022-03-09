@@ -1,0 +1,122 @@
+#section-one-block{
+    /* border: 2px solid black; */
+}
+
+#section-one-content{
+    /* border: 2px solid yellow; */
+    width: 1000px;
+    height: 400px;
+    margin: 0 auto;
+    display: flex;
+    position: relative; 
+
+}
+
+#section-one-content::after{
+    content:'';
+    background: url(../../../public/Images/beach-car-child.jpg);
+    opacity: 0.5;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    position: absolute;
+    background-position: 50% 80%;
+    background-size: 1000px auto;
+    z-index: -1;
+    opacity: 70%;
+}
+
+    /* background-image: url(../../../public/Images/beach-car-child.jpg);
+    background-repeat: no-repeat;
+    background-size: 1000px auto;
+    background-position: 50% 80%;
+    opacity: 70%; */
+
+#section-one-left{
+    width:50%;
+    /* border: 2px solid black; */
+    padding:70px 0px 0px 80px;
+}
+
+#section-one-right{
+    width:50%;
+    /* border: 2px solid black; */
+    display: flex;
+    justify-content: center;
+    /* align-items: center; */
+    padding-top:80px
+}
+
+.section-one-blue{
+    color: #0076be;
+    font-size: 40px;
+    font-weight: bold;
+    /* border: 2px solid red; */
+}
+
+.section-one-white{
+    color: #595756;
+    font-size: 18px;
+    font-weight: bold;
+    margin: 20px 0px 0px 0px;
+    /* border: 2px solid red; */
+}
+
+#registration-box{
+    /* border: 2px solid red; */
+    height:100px;
+    width:340px;
+    border-radius: 10px;
+}
+
+.top-blue{
+    background-color:#0076be;
+    border-radius: 10px 10px 0px 0px;
+    height:40px;
+}
+
+.bottom-white{
+    background-color: white;
+    border-radius: 0px 0px 10px 10px;
+    /* border: 1px solid black; */
+    padding: 10px 0px 0px 0px;
+    height:100px;
+}
+
+#bottom-white{
+    text-align:center;
+    padding:40px 0px 20px 0px;
+}
+
+
+
+#registration-input-box{
+    background-color:#f0f0f0;
+    height: 30px;
+    width: 80%;
+    /* border: 2px solid red; */
+}
+
+#registration-box button{
+    /* border: 2px solid green; */
+    padding: 10px;
+    border-radius: 10px;
+    font-weight: bold;
+}
+
+.spacer{
+    margin: 10px 10px 0px 10px;
+    min-width:110px;
+    border: 1px solid #b0afaf;
+    background-color:#b0afaf;
+}
+
+.buy-online{
+    background-color:#0076be;
+    color:white;
+    margin: 10px 10px 0px 10px;
+    min-width:110px;
+    border: 1px solid #0076be;
+    /* box-shadow: 5px 10px red; */
+}

@@ -1,0 +1,30 @@
+#section-six-block{
+    /* border: 2px solid black; */
+    /* background-color: rgb(199, 194, 194); */
+}
+
+#section-six-content{
+    /* border: 2px solid yellow; */
+    background-color: #363636;
+    color:white;
+    width: 1000px;
+    height: 50px;
+    margin: 0 auto;
+    display: flex;
+    justify-content:space-between;
+    align-items:center;
+}
+
+#right{
+    display: flex;
+    /* border: 2px solid yellow; */
+}
+
+.icon{
+    padding:0px 5px 0px 5px;
+    /* border: 2px solid red; */
+}
+
+.left-icon{
+    padding:0px 15px 0px 15px;
+}
