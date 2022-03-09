@@ -8,7 +8,7 @@ export default function SectionFour() {
   <div id="section-five-content">
 
     <div id='box01'>
-      <img src='./Images/turners-logo-grey.png' />
+      <img src='./Images/turners-logo-grey.png' alt='turners logo'/>
     </div>
 
     <div id='box02'>

@@ -16,7 +16,7 @@ export default function SectionFour() {
     let question = document.getElementById('search').value
 
     // take question and replace an of special characters
-    let trimmer = question.replace(/[$/!/@/#/$/%/^/&/*/+/{/}/[/\]/:/;/?/\//>/</]/g, "")
+    let trimmer = question.replace(/[$/!/@/#/$/%/^/&/*/+/{/}/[/\]/:/;/?/>/</]/g, "")
 
     // the question and trim any white space
     let finalQuestion = trimmer.trim();

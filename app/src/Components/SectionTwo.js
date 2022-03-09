@@ -35,7 +35,7 @@ export default function SectionTwo() {
                   </div>
                   <div id='section-two-read-more'>
                     <div id='section-two-read-more-format'>
-                      <a href="#" class="read-more">Read more</a> - arrow
+                      <a href class="read-more">Read more</a> - arrow
                     </div>
                   </div>
                 </div>
@@ -62,7 +62,7 @@ export default function SectionTwo() {
                   </div>
                   <div id='section-two-read-more'>
                     <div id='section-two-read-more-format'>
-                      <a href="#" class="read-more">Read more</a> - arrow
+                      <a href class="read-more">Read more</a> - arrow
                     </div>
                   </div>
                 </div>
@@ -130,7 +130,7 @@ export default function SectionTwo() {
             </tr>
           </table>
           <div class='reveal-all'>
-            <a href="#" >Show all items</a> - icon
+            <a href >Show all items</a> - icon
           </div>
         </div>
           <div class='quote-now'>
