@@ -8,7 +8,7 @@ export default function SectionOne() {
 <div id="section-one-content">
     
     <div id="section-one-left">
-      <div class='section-one-blue'>Car Insurance</div>
+      <div class='section-one-blue'>Car Insurance we here</div>
       <div class='section-one-white'>It's time to find an affordable insurance solution.</div>
     </div>
 
