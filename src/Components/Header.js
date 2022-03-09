@@ -8,7 +8,7 @@ export default function Header() {
         <div id="header-content">
             
             <div id='left-box'>
-              <img src="Images/small-turners-logo.png" alt=''/> 
+              <img src="Images/turners-logo-grey-header.png" alt=''/> 
               <span class='link'>Insurance</span>
               <span class='link'>Claims</span>
               <span class='link'>About us</span>
