@@ -35,7 +35,7 @@ export default function SectionTwo() {
                   </div>
                   <div id='section-two-read-more'>
                     <div id='section-two-read-more-format'>
-                      <a href class="read-more">Read more</a> - arrow
+                      <a href class="read-more">Read more</a> <img src="Images/right-arrow.png" alt='' />
                     </div>
                   </div>
                 </div>
@@ -55,14 +55,13 @@ export default function SectionTwo() {
               
                 <div id='section-two-bottom-left'>
                   <div id='section-two-bottom-left-text'>
-                    This is and insurance policy that
-                    protects you from unexpected costs
-                    in the event that your car has a
-                    sudden and unforseen break-down.
+                    Cover for your car if it is damaged
+                    by fire, stolen, or you accidentally damage
+                    someone else's property with your car.
                   </div>
                   <div id='section-two-read-more'>
                     <div id='section-two-read-more-format'>
-                      <a href class="read-more">Read more</a> - arrow
+                      <a href class="read-more">Read more</a> <img src="Images/right-arrow.png" alt='' />
                     </div>
                   </div>
                 </div>
@@ -95,42 +94,37 @@ export default function SectionTwo() {
             </tr>
             <tr>
               <td class='info-column'>Mechanical and Electrical breakdown</td>
-              <td class='tick-column'>tick icon</td>
-              <td class='tick-column'>tick icon</td>
+              <td class='tick-column'><img src="Images/tick-icon.png" alt='' /></td>
+              <td class='tick-column'><img src="Images/tick-icon.png" alt='' /></td>
             </tr>
             <tr>
-              <td class='info-column'>Mechanical and Electrical breakdown</td>
-              <td class='tick-column'>tick icon</td>
-              <td class='tick-column'>tick icon</td>
+              <td class='info-column'>AA Roadservice & 24/7 breakdown assistance</td>
+              <td class='tick-column'><img src="Images/tick-icon.png" alt='' /></td>
+              <td class='tick-column'><img src="Images/tick-icon.png" alt='' /></td>
             </tr>
             <tr>
-              <td class='info-column'>Mechanical and Electrical breakdown</td>
-              <td class='tick-column'>tick icon</td>
-              <td class='tick-column'>tick icon</td>
+              <td class='info-column'>Parts & labour</td>
+              <td class='tick-column'><img src="Images/tick-icon.png" alt='' /></td>
+              <td class='tick-column'><img src="Images/tick-icon.png" alt='' /></td>
             </tr>
             <tr>
-              <td class='info-column'>Mechanical and Electrical breakdown</td>
-              <td class='tick-column'>tick icon</td>
-              <td class='tick-column'>tick icon</td>
+              <td class='info-column'>Vehicle recovery and towing</td>
+              <td class='tick-column'><img src="Images/tick-icon.png" alt='' /></td>
+              <td class='tick-column'><img src="Images/tick-icon.png" alt='' /></td>
             </tr>
             <tr>
-              <td class='info-column'>Mechanical and Electrical breakdown</td>
-              <td class='tick-column'>tick icon</td>
-              <td class='tick-column'>tick icon</td>
+              <td class='info-column'>Nil excess for windscreen repairs</td>
+              <td class='tick-column'><img src="Images/tick-icon.png" alt='' /></td>
+              <td class='tick-column'><img src="Images/tick-icon.png" alt='' /></td>
             </tr>
             <tr>
-              <td class='info-column'>Mechanical and Electrical breakdown</td>
-              <td class='tick-column'>tick icon</td>
-              <td class='tick-column'>tick icon</td>
-            </tr>
-            <tr>
-              <td class='info-column'>Mechanical and Electrical breakdown</td>
-              <td class='tick-column'>tick icon</td>
-              <td class='tick-column'>tick icon</td>
+              <td class='info-column'>Towing and storage</td>
+              <td class='tick-column'><img src="Images/x-icon.png" alt='' /></td>
+              <td class='tick-column'><img src="Images/tick-icon.png" alt='' /></td>
             </tr>
           </table>
           <div class='reveal-all'>
-            <a href >Show all items</a> - icon
+            <a href >Show all items</a> <img src="Images/down-arrow-icon.png" alt='' />
           </div>
         </div>
           <div class='quote-now'>

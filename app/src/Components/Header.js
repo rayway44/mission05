@@ -15,10 +15,9 @@ export default function Header() {
             </div>
 
             <div id='right-box'>
-              
-              <span class='link'>icon</span>
-              <span class='link'>0800 887 637</span>
-              <a href><span class='red-button'>login</span></a>
+              <div class='phone-icon'></div>
+              <div class='phone-link'><img src="Images/phone-icon.png" alt=''  />0800 887 637</div>
+              <div><button class='red-button'>login</button></div>
             </div>
 
         </div>

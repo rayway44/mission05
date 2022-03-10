@@ -17,12 +17,23 @@
 
 #right{
     display: flex;
-    /* border: 2px solid yellow; */
+    padding:0px 10px 0px 0px;
 }
 
 .icon{
-    padding:0px 5px 0px 5px;
     /* border: 2px solid red; */
+    display: flex;
+    font-size: 15px;
+    /* border: 2px solid yellow; */
+    justify-content:center;
+    align-items:center;
+    padding:0px 10px 0px 10px;
+}
+
+.icon img{
+    /* border: 2px solid yellow;  */
+    width:30px;
+        /* padding:0px 0px 0px 15px; */
 }
 
 .left-icon{
